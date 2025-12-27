@@ -3,7 +3,7 @@ public class Book {
     private String author; //the author who wrote the book
     private String ISBN; // the ISBN of the book
     private int publicationYear; //the release year of the book
-    private double price;
+    private double price; //the price of the book
 
     public Book(String title, String author, String ISBN, int publicationYear, double price) {
         this.title =  title;
