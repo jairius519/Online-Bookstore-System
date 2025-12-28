@@ -4,7 +4,7 @@ public class Payment {
 
     public Payment(String cardType, String cardNetwork) {
         this.cardType = cardType;
-        this. cardNetwork = cardNetwork;
+        this.cardNetwork = cardNetwork;
     }
 
     //returns the card type
