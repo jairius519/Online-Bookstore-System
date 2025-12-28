@@ -1,6 +1,6 @@
 public class Card extends Payment {
     private String cardNum; //the 16-digit card number
-    private int cvv; //3 or 4 digit number
+    private int cvv; // the 3 or 4 digit number on the card
     private String holderName; //card holder's name
     private String expireDate; //expiration date
 
