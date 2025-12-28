@@ -1,6 +1,6 @@
 import java.util.UUID;
 public class User {
-    private final String userID; //an unique id designed for users that can't be changed 
+    private final String userID; //an unique id designed for users that cannot be changed 
    private String name;//the name of the user 
    private final String email; //the email of the user
    private String password; //the password of the user
